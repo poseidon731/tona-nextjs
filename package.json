@@ -1,0 +1,22 @@
+{
+  "name": "paul-site",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.1",
+    "isotope-layout": "^3.0.6",
+    "next": "10.1.3",
+    "next-images": "^1.7.0",
+    "react": "17.0.2",
+    "react-bootstrap": "^0.33.1",
+    "react-dom": "17.0.2",
+    "react-isotope": "^1.0.7",
+    "react-scroll": "^1.8.2",
+    "swiper": "^6.5.8"
+  }
+}
